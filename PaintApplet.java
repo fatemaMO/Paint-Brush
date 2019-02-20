@@ -18,7 +18,7 @@ import java.util.Vector;
 
 /**
  *
- * @author HD
+ * @author FATEMA
  */
 public class PaintApplet extends Applet {
 
